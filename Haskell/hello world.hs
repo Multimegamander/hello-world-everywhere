@@ -1,1 +1,1 @@
-"Hello, World!"
+putStrLn "Hello, World!"
