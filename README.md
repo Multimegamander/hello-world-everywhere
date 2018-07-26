@@ -1,6 +1,6 @@
 # hello-world-everywhere
 ### **hello-world-everywhere** is a project to have an example "Hello, World!" in every language available.
-
+***
 ## Current Supported Languages:
 * [BASIC](https://en.wikipedia.org/wiki/BASIC)
 * [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
@@ -27,7 +27,6 @@
 * [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 * [Visual Basic .NET](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
 * [Visual Basic Script](https://en.wikipedia.org/wiki/VBScript)
-
 ***
-
 ## Thanks to all contributors that help growing this project. If you want to see a missing language here, open an [issue](https://github.com/ApfelTV/hello-world-everywhere/issues) or make a [pull request](https://github.com/ApfelTV/hello-world-everywhere/pulls).
+***
