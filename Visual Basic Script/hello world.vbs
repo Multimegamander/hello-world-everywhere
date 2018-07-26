@@ -1,1 +1,2 @@
-MsgBox("Hello, World!")
+WScript.Echo "Hello, World!"
+WScript.Quit
