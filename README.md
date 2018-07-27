@@ -17,6 +17,7 @@
 * [HTML](https://en.wikipedia.org/wiki/HTML)
 * [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+* [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE)
 * [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))
 * [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
 * [Perl](https://en.wikipedia.org/wiki/Perl)
