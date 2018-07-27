@@ -1,5 +1,5 @@
 # hello-world-everywhere
-### **hello-world-everywhere** is a project to have an example "Hello, World!" in every language available. Currently, we have examples for 28 languages.
+### **hello-world-everywhere** is a project to have an example "Hello, World!" in every language available. Currently, we have examples for 29 languages.
 ***
 ## Current Supported Languages:
 * [BASIC](https://en.wikipedia.org/wiki/BASIC)
@@ -25,6 +25,7 @@
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 * [Ruota](https://github.com/Ruota-Lang/Ruota/blob/master/README.md)
+* [Scala](https://en.wikipedia.org/wiki/Scala_(programming_language))
 * [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 * [Visual Basic .NET](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
 * [Visual Basic Script](https://en.wikipedia.org/wiki/VBScript)
