@@ -29,5 +29,5 @@
 * [Visual Basic .NET](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
 * [Visual Basic Script](https://en.wikipedia.org/wiki/VBScript)
 ***
-## Thanks to all contributors that help growing this project. If you want to see a missing language here, open an [issue](https://github.com/ApfelTV/hello-world-everywhere/issues) or make a [pull request](https://github.com/ApfelTV/hello-world-everywhere/pulls).
+### Thanks to all contributors that help growing this project. If you want to see a missing language here, open an [issue](https://github.com/ApfelTV/hello-world-everywhere/issues) or make a [pull request](https://github.com/ApfelTV/hello-world-everywhere/pulls).
 ***
