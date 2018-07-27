@@ -9,6 +9,7 @@
 * [C#](https://wikipedia.org/wiki/C_Sharp_(programming_language))
 * [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+* [Crystal](https://en.wikipedia.org/wiki/Crystal_(programming_language))
 * [D](https://en.wikipedia.org/wiki/D_(programming_language))
 * [F#](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
 * [Go](https://en.wikipedia.org/wiki/Go_(programming_language))
