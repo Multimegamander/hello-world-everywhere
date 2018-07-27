@@ -24,7 +24,7 @@
 * [PowerShell](https://en.wikipedia.org/wiki/PowerShell)
 * [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
 * [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
-* Ruota <no wikipedia entry available :/>
+* [Ruota](https://github.com/Ruota-Lang/Ruota/blob/master/README.md)
 * [Swift](https://en.wikipedia.org/wiki/Swift_(programming_language))
 * [Visual Basic .NET](https://en.wikipedia.org/wiki/Visual_Basic_.NET)
 * [Visual Basic Script](https://en.wikipedia.org/wiki/VBScript)
