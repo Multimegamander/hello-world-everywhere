@@ -1,5 +1,5 @@
 # hello-world-everywhere
-### **hello-world-everywhere** is a project to have an example "Hello, World!" in every language available. Currently, we have examples for 31 languages.
+### **hello-world-everywhere** is a project to have an example "Hello, World!" in every language available. Currently, we have examples for 32 languages.
 ***
 ## How to contribute to **hello-world-everywhere**
 So, you have **2** ways.
