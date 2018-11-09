@@ -36,6 +36,7 @@ So, you have **2** ways.
 * [LOLCODE](https://en.wikipedia.org/wiki/LOLCODE)
 * [Lua](https://en.wikipedia.org/wiki/Lua_(programming_language))
 * [Objective-C](https://en.wikipedia.org/wiki/Objective-C)
+* [Pascal](null)
 * [Perl](https://en.wikipedia.org/wiki/Perl)
 * [php](https://en.wikipedia.org/wiki/PHP)
 * [PowerShell](https://en.wikipedia.org/wiki/PowerShell)
