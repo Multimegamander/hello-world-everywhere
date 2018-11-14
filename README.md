@@ -1,6 +1,6 @@
 # hello-world-everywhere
 ### **hello-world-everywhere** is a project to have an example "Hello, World!" in every language available. Currently, we have examples for 33 languages.
-***
+
 ## How to contribute to **hello-world-everywhere**
 So, you have **2** ways.
 ### 1. way: Opening an Issue.
@@ -17,7 +17,7 @@ So, you have **2** ways.
 
 ##### Now you are done. Now wait for me accepting your requested programming language.
 #### Notice: I will ignore/close Issues/PRs that arent formatted/done how I want it.
-***
+
 ## Current Supported Languages:
 * AutoIt3
 * Bash / Shell
@@ -52,6 +52,5 @@ So, you have **2** ways.
 * Swift
 * Visual Basic .NET
 * Visual Basic Script
-***
+
 ### Thanks to all contributors that help letting this project grow. If you want to see a missing language here, open an [issue](https://github.com/Apfel/hello-world-everywhere/issues) or make a [pull request](https://github.com/ApfelTV/hello-world-everywhere/pulls).
-***
