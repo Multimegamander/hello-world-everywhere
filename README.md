@@ -19,6 +19,7 @@ So, you have **2** ways.
 #### Notice: I will ignore/close Issues/PRs that arent formatted/done how I want it.
 
 ## Current Supported Languages:
+* ArnoldC
 * AppleScript
 * AutoIt3
 * Bash / Shell
