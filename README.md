@@ -19,6 +19,7 @@ So, you have **2** ways.
 #### Notice: I will ignore/close Issues/PRs that arent formatted/done how I want it.
 
 ## Current Supported Languages:
+* AppleScript
 * AutoIt3
 * Bash / Shell
 * BASIC
@@ -30,6 +31,7 @@ So, you have **2** ways.
 * Crystal
 * CSS
 * D
+* Dart
 * F#
 * GO
 * Haskell
