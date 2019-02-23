@@ -19,18 +19,18 @@ So, you have **2** ways.
 #### Notice: I will ignore/close Issues/PRs that arent formatted/done how I want it.
 
 ## Current Supported Languages:
-* ArnoldC
 * AppleScript
+* ArnoldC
 * AutoIt3
-* Bash / Shell
 * BASIC
+* Bash
 * Batch
 * Brainfuck
-* C
 * C#
 * C++
-* Crystal
+* C
 * CSS
+* Crystal
 * D
 * Dart
 * F#
@@ -42,6 +42,7 @@ So, you have **2** ways.
 * Kotlin
 * LOLCODE
 * Lua
+* Neko
 * Objective-C
 * Pascal
 * Perl
